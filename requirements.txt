@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+nltk
+sklearn
+pickle
+webbrowser
+flask
+streamlit
